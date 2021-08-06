@@ -1,9 +1,9 @@
 // Implement reverseString(str) that take in a String, and then return a string of the same length, but with the characters reversed.
-
 // Example: "creature" ---> "erutaerc"
 
-// ** Don't use the built-in reverse() method!
+// ** Don't use the built-in method!
 // example string "Hello"
+
 var revString = ""
 function reverseString(str) {
     for (var i = str.length - 1; i >= 0; i--){
@@ -12,10 +12,9 @@ function reverseString(str) {
     console.log(revString)
 }
 
+
 reverseString("Hello")
 
-// ===========================
-// ===========================
 
 // Create a function that, given a string, returns the string's acronym (first letter's only, capitalized).
 
