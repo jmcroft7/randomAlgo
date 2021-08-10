@@ -19,8 +19,10 @@ for the day and the language to use.
     <img src="/assets/randomAlgo.PNG" />
 </p>
 
-## Contributing
+## Contributing/Formatting
 Pull requests are welcome. to add additional algorithms or languages take note of lines 6 and 12 in Index.js for formatting.
+Algorithms are formatted with:      n: "Title \n Description \n example"
+Languages are set default to:        ["JavaScript", "Python", "Java"]
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
