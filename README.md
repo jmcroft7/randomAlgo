@@ -20,9 +20,7 @@ for the day and the language to use.
 </p>
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Pull requests are welcome. to add additional algorithms or languages take note of lines 6 and 12 in Index.js for formatting.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
