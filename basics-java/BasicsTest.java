@@ -22,7 +22,7 @@ public class BasicsTest {
         // Max Value in array
         Basics.FindMax(arr1);
 
-
+        // an array consisting of only odds.
         Basics.OddArray(255);
     }
 }
