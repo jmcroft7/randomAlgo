@@ -14,6 +14,10 @@ in the console will be your algorithm
 for the day and the language to use.
 
 ```
+## Screenshot
+<p>
+    <img src="/assets/randomAlgo.PNG" />
+</p>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
