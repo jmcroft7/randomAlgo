@@ -21,7 +21,9 @@ for the day and the language to use.
 
 ## Contributing/Formatting
 Pull requests are welcome. to add additional algorithms or languages take note of lines 6 and 12 in Index.js for formatting.
+<br/>
 Algorithms are formatted with:      n: "Title \n Description \n example"
+<br/>
 Languages are set default to:        ["JavaScript", "Python", "Java"]
 
 ## License
