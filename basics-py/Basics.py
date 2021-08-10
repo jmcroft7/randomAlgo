@@ -36,7 +36,7 @@ def IterateArray(arr):
 
 arr1 = [1,2,3,4,5,6,7];
 IterateArray(arr1);
-print("=====")
+print("=====");
 
 
 # Find max value in array
@@ -49,7 +49,8 @@ def findMax(arr):
             maxVal = i;
     print(maxVal);
 
-findMax(arr1)
+findMax(arr1);
+print("=====");
 
 
 # Create an array consisting of only odds.
@@ -60,3 +61,4 @@ def oddArray(num):
     print(oddArr);
 
 oddArray(10);
+print("=====");
