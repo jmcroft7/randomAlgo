@@ -7,7 +7,7 @@ const print1To255 = () => {
     }
 }
 print1To255();
-console.log("=====")
+console.log("=====");
 
 
 // Print odds 1-255
@@ -18,7 +18,7 @@ const oddsTo255 = () => {
     }
 }
 oddsTo255();
-console.log("=====")
+console.log("=====");
 
 
 // Sigma of 255
@@ -30,7 +30,7 @@ const sigma255 = () => {
     console.log(sum)
 }
 sigma255();
-console.log("=====")
+console.log("=====");
 
 
 // Iterating through an array
@@ -41,7 +41,7 @@ const iterateArr = (arr) => {
 }
 arr1 = [1, 2, 3, 4, 5, 6]
 iterateArr(arr1);
-console.log("=====")
+console.log("=====");
 
 
 // Find max value in array
@@ -55,6 +55,7 @@ const findMax = (arr) => {
     console.log(maxVal)
 }
 findMax(arr1);
+console.log("=====");
 
 
 // Create an array consisting of only odds.
