@@ -1,5 +1,3 @@
-# Basic 13
-
 # Print 1-55
 def oneTo255():
     for i in range(1, 256, 1):

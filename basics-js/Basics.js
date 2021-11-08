@@ -1,5 +1,3 @@
-// Basic 13
-
 // Print 1-55
 const print1To255 = () => {
     for (i=1; i <= 255; i++) {
