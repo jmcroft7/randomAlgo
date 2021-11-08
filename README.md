@@ -8,7 +8,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/jmcroft7/randomAlgo">
+  <a href="./assets/randomAlgo.PNG">
     <img src="./assets/randomAlgo.PNG" alt="Logo" width="400" height="225">
   </a>
  </div>
