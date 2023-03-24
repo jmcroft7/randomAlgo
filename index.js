@@ -1,16 +1,13 @@
 // Randomly generates in your console an algorithm and a coding language to do that algorithm in!
 // A solution to each algo is included in 'solutions-js' folder
-
 const randomAlgo = () => {
 
     // add or remove languages as you know
-
     let languages = ["JavaScript", "Python", "Java"]
 
 
     // add more algos with this format
     // n: "Title \n Description \n example"
-
     let algos = {
 
         0: "reverseString \n take in a String, and then return a string of the same length, but with the characters reversed. \n 'creature' ---> 'erutaerc' ",
@@ -45,8 +42,8 @@ const randomAlgo = () => {
 
     }
 
-    let randAlgo = Math.round(Math.random()* Object.keys(algos).length)
-    let randLang = Math.round(Math.random()*(languages.length-1))
+    let randAlgo = Math.round(Math.random() * Object.keys(algos).length)
+    let randLang = Math.round(Math.random() * (languages.length - 1))
 
     return `code in: ${languages[randLang]} \n Algo #${randAlgo}: ${algos[randAlgo].toString()}`
 }
